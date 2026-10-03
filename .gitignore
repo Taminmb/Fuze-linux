@@ -1,0 +1,5 @@
+*.iso
+*.tar
+*.tar.xz
+work/
+iso/
