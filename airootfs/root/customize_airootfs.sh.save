@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "fastfetch -c /etc/fastfetch/config.jsonc" >> /etc/skel/.zshrc
+echo "fastfetch -c /etc/fastfetch/config.jsonc" >> /root/.zshrc
+echo "fastfetch -c /etc/fastfetch/config.jsonc" >> /etc/skel/.bashrc
+echo "fastfetch -c /etc/fastfetch/config.jsonc" >> /root/.bashrc

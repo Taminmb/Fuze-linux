@@ -1,0 +1,10 @@
+NAME="Fuze Linux"
+PRETTY_NAME="Fuze Linux (basé sur Arch Linux)"
+ID=fuze
+ID_LIKE=fuzeiii
+BUILD_ID=rolling
+ANSI_COLOR="0;31"
+HOME_URL="https://youtube.com/c/FuzeIII"
+DOCUMENTATION_URL="https://wiki.archlinux.org/"
+SUPPORT_URL="https://wiki.archlinux.org/"
+BUG_REPORT_URL="https://github.com/archlinux/archiso"
