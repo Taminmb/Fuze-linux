@@ -2,6 +2,6 @@ cat <<'EOF' > airootfs/etc/xdg/autostart/fuze-intro.desktop
 [Desktop Entry]
 Type=Application
 Name=Fuze Intro
-Exec=sh -c "sleep 2 && mpv --vo=x11 --hwdec=no --no-terminal --fs /usr/share/fuze/intro.mp4"
+Exec=sh -c "sleep 3 && mpv --vo=x11 --ao=alsa --hwdec=no --input-vo-keyboard=no --osc=no --no-terminal --fs /usr/share/fuze/intro.mp4"
 NoDisplay=true
 EOF
